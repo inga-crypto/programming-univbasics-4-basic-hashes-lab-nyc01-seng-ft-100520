@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  dress = { :color => "pink", :fabric => "polyester", :zipper => "centerfront" }
+  dress = { color: "pink", fabric: "polyester", zipper: "centerfront" }
 end
 
 def pioneer
